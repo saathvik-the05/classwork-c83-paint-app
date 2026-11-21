@@ -4,4 +4,4 @@ A browser drawing app on an HTML canvas. Supports touch drawing with a selectabl
 
 **Built with:** HTML, CSS, JavaScript (Canvas API)
 
-> Classwork from a school coding course (2021). I wrote most of the HTML, CSS and JavaScript myself.
+> Classwork from the WhiteHat Jr online coding course (2021). I wrote most of the HTML, CSS and JavaScript myself.
